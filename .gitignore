@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Frontend dependencies
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+
+# Python database
+*.db
+
+# System files
+.DS_Store
+Thumbs.dbfrontend/
+frontend_release/node_modules/
+frontend_release/.expo/
+*.zip
+backend/.venv/
+backend/app/uploads/
